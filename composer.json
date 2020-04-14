@@ -31,10 +31,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "extra": {
-    "laravel": {
-        "providers": [
-            "Eloquence\\EloquenceServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Eloquence\\EloquenceServiceProvider"
+            ]
+        }
     }
-},
 }
